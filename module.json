@@ -188,6 +188,174 @@
       "path": "packs/rolltables.db",
       "module": "My-Shared-Compendia",
       "entity": "RollTable"
+    },
+    {
+      "name": "world-sotss-actors",
+      "label": "SOTSS My actors",
+      "path": "packs/sotss/actors.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Actor"
+    },
+    {
+      "name": "world-sotss-combat",
+      "label": "SOTSS My Combat",
+      "path": "packs/sotss/combat.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "world-sotss-combats",
+      "label": "SOTSS My Combats",
+      "path": "packs/sotss/combats.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "world-sotss-items",
+      "label": "SOTSS My Items",
+      "path": "packs/sotss/items.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "world-sotss-scenes",
+      "label": "SOTSS My Scenes",
+      "path": "packs/sotss/scenes.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Scene"
+    },
+    {
+      "name": "world-sotss-JournalEntrys",
+      "label": "SOTSS My Journal Entrys",
+      "path": "packs/sotss/journal.db",
+      "module": "My-Shared-Compendia",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "world-elfward-actors",
+      "label": "ELFWARD My actors",
+      "path": "packs/elfward/actors.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Actor"
+    },
+    {
+      "name": "world-elfward-combat",
+      "label": "ELFWARD My Combat",
+      "path": "packs/elfward/combat.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "world-elfward-combats",
+      "label": "ELFWARD My Combats",
+      "path": "packs/elfward/combats.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "world-elfward-items",
+      "label": "ELFWARD My Items",
+      "path": "packs/elfward/items.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "world-elfward-scenes",
+      "label": "ELFWARD My Scenes",
+      "path": "packs/elfward/scenes.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Scene"
+    },
+    {
+      "name": "world-elfward-JournalEntrys",
+      "label": "ELFWARD My Journal Entrys",
+      "path": "packs/elfward/journal.db",
+      "module": "My-Shared-Compendia",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "world-sim-actors",
+      "label": "SIM My actors",
+      "path": "packs/simulation-z-00001/actors.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Actor"
+    },
+    {
+      "name": "world-sim-combat",
+      "label": "SIM My Combat",
+      "path": "packs/simulation-z-00001/combat.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "world-sim-combats",
+      "label": "SIM My Combats",
+      "path": "packs/simulation-z-00001/combats.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "world-sim-items",
+      "label": "SIM My Items",
+      "path": "packs/simulation-z-00001/items.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "world-sim-scenes",
+      "label": "SIM My Scenes",
+      "path": "packs/simulation-z-00001/scenes.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Scene"
+    },
+    {
+      "name": "world-sim-JournalEntrys",
+      "label": "SIM My Journal Entrys",
+      "path": "packs/simulation-z-00001/journal.db",
+      "module": "My-Shared-Compendia",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "world-ecr-actors",
+      "label": "ECR My actors",
+      "path": "packs/eternal-compass-rose/actors.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Actor"
+    },
+    {
+      "name": "world-ecr-combat",
+      "label": "ECR My Combat",
+      "path": "packs/eternal-compass-rose/combat.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "world-ecr-combats",
+      "label": "ECR My Combats",
+      "path": "packs/eternal-compass-rose/combats.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "world-ecr-items",
+      "label": "ECR My Items",
+      "path": "packs/eternal-compass-rose/items.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "world-ecr-scenes",
+      "label": "ECR My Scenes",
+      "path": "packs/eternal-compass-rose/scenes.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Scene"
+    },
+    {
+      "name": "world-ecr-JournalEntrys",
+      "label": "ECR My Journal Entrys",
+      "path": "packs/eternal-compass-rose/journal.db",
+      "module": "My-Shared-Compendia",
+      "entity": "JournalEntry"
     }
   ],
   "url": "https://github.com/stschoelzel/My-Shared-Compendia"
