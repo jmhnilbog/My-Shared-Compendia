@@ -1,0 +1,31 @@
+{"name":"Parties","type":"Actor","sort":300000,"flags":{},"parent":null,"sorting":"a","color":"#7980ff","_id":"24hnS0briXTRTfBq"}
+{"name":"Creatures","type":"JournalEntry","sort":300000,"flags":{},"parent":"zD7f3nPL5eB87KhQ","sorting":"a","color":"","_id":"42qNvZ9ZvxZri7OC"}
+{"name":"My Scenes","type":"Scene","sort":200000,"flags":{},"parent":null,"sorting":"a","_id":"4uh5jLJLcYbqMtJa"}
+{"name":"Core Book Journals","type":"JournalEntry","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"9q8vg3oYSoq47b0f"}
+{"name":"My Items","type":"Item","sort":100000,"flags":{},"parent":null,"sorting":"a","_id":"CwKojimz9W5VivhG"}
+{"name":"Sailors on the Starless Sea","type":"JournalEntry","sort":200000,"flags":{},"parent":"zD7f3nPL5eB87KhQ","sorting":"m","color":"#941100","_id":"E6rgSjPMCub9mOY5"}
+{"name":"My Unique Items","type":"Item","sort":200000,"flags":{},"parent":null,"sorting":"a","_id":"ECwiRsHOUCDf9PHD"}
+{"name":"Weapons","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"GiK4yIoO11cTcnQO"}
+{"name":"NPCs","type":"JournalEntry","sort":400000,"flags":{},"parent":"zD7f3nPL5eB87KhQ","sorting":"a","color":"#d783ff","_id":"HVhOhKkxjQyqH4UT"}
+{"name":"Cleric Spells Level 1","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"IdaPR11Hl33gIljO"}
+{"_id":"Kczi8ApadLCYWWyV","name":"Names","type":"RollTable","sort":200000,"flags":{},"parent":"lHcLj8nsUhW4UeTA","sorting":"a","color":"#ff7d78"}
+{"name":"Mounts","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"L6VAJgLXtSR3rmtf"}
+{"name":"Sailors on the Starless Sea","type":"RollTable","sort":100000,"flags":{},"parent":"lHcLj8nsUhW4UeTA","sorting":"a","color":"#941100","_id":"LMIYFkIWex8n4p71"}
+{"name":"Men and Magicians","type":"Actor","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"RtYmQuYrCAK26qHy"}
+{"name":"My Monsters","type":"Actor","sort":100000,"flags":{},"parent":null,"sorting":"a","_id":"T4XQsvufKlnvKCaK"}
+{"name":"User Guide","type":"JournalEntry","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"W2gtrA1tcT7pOWFc"}
+{"name":"Items","type":"Item","sort":600000,"flags":{},"parent":"nkuw56ZwMg8SIAZs","sorting":"a","color":"","_id":"Y44Dl76DxjvHBOo4"}
+{"name":"Wizard Spells Level 1","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"d1PXCG7cBtw15enG"}
+{"_id":"dwQ0iOU0IVo7Jjbf","name":"Sailors on the Starless Sea","type":"Scene","sort":100000,"flags":{},"parent":"4uh5jLJLcYbqMtJa","sorting":"m","color":"#941100"}
+{"name":"Core Book Text","type":"JournalEntry","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"fJ5i4zBoq9iAXZqc"}
+{"name":"Armor","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"jxa6CsasyDOW8ecX"}
+{"name":"Cyclopedia of Creatures Monstrous and Mundane","type":"Actor","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"k56Z1KJkBVDkQiRG"}
+{"name":"My RollTables","type":"RollTable","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"lHcLj8nsUhW4UeTA"}
+{"name":"Pick-Up-Stix","type":"Item","sort":400000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"nkuw56ZwMg8SIAZs"}
+{"name":"Pregenerated 0-level PCs","type":"Actor","sort":400000,"flags":{},"parent":"24hnS0briXTRTfBq","sorting":"a","color":"#7980ff","_id":"pNNHPQiXRFKG43vT"}
+{"name":"Equipment","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"rKIEoJT0dqcc24cK"}
+{"name":"Ammunition","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"w3OrmJ4A6CiWgKtB"}
+{"name":"Tokens","type":"Item","sort":500000,"flags":{},"parent":"nkuw56ZwMg8SIAZs","sorting":"a","color":"","_id":"wgLZkKnTU4YkCdg4"}
+{"name":"Unarmed 'Weapons'","type":"Item","sort":300000,"flags":{},"parent":"CwKojimz9W5VivhG","sorting":"a","color":"","_id":"yL1df5Hh7iJQY59S"}
+{"name":"My NPCs","type":"Actor","sort":200000,"flags":{},"parent":null,"sorting":"a","_id":"zByWEYgWplh4ZIIw"}
+{"name":"My Journal Entries","type":"JournalEntry","sort":100000,"flags":{},"parent":null,"sorting":"a","_id":"zD7f3nPL5eB87KhQ"}

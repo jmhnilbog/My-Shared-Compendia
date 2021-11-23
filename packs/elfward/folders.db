@@ -1,0 +1,20 @@
+{"name":"Weapons","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"0dZEOeLdra12dFba"}
+{"name":"Core Book Journals","type":"JournalEntry","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"1nNVmApciRUOB71P"}
+{"name":"Cleric Spells Level 1","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"3uCCG9hOusjaNimB"}
+{"name":"Wizard Spells Level 1","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"4yS7AFp56ZTpb2mk"}
+{"name":"Mounts","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"5UY4tKd16oa02Iou"}
+{"_id":"H96515Km8iWy8uCy","name":"Important NPCs","type":"Actor","sort":300000,"flags":{},"parent":null,"sorting":"a","color":"#9437ff"}
+{"name":"Core Book Text","type":"JournalEntry","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"Kv4EbRQs1xObpTkF"}
+{"name":"Cleric Spells Level 2","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"MhY5NCw69YW4FaZz"}
+{"name":"Patron Spells","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"OwpiTIuYbEWxqv3M"}
+{"_id":"PgbzJVTIBQdN4lO3","name":"Elfward PCs","type":"Actor","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"#0432ff"}
+{"name":"Men and Magicians","type":"Actor","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"Qpd72af6ej7Po5kr"}
+{"name":"Custom","type":"Item","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"#ff40ff","_id":"U2uasft3Y4s97t33"}
+{"name":"Where The White Things Are","type":"Scene","sort":null,"flags":{},"parent":null,"sorting":"a","color":"#a9a9a9","_id":"X0zCtXNfcfrHfG7C"}
+{"name":"Ammunition","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"eA8zfYOERT823bl7"}
+{"name":"Cyclopedia of Creatures Monstrous and Mundane","type":"Actor","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"iY0sMyGCu1sPt9ra"}
+{"name":"Armor","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"j5TtJxFqdYlY3cbT"}
+{"name":"Equipment","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"j9FZyy6KAfdHz2uF"}
+{"name":"User Guide","type":"JournalEntry","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"nqx14ABnMjOmuqXj"}
+{"name":"Wizard Spells Level 2","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"tvlj7Ln9GRjy4ddv"}
+{"name":"About Creatures","type":"JournalEntry","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"#0096ff","_id":"xkjsjrCFVGzhzYt4"}

@@ -1,0 +1,8 @@
+{"_id":"1Hfj83NoSuAEAFV7","name":"Atticus","flags":{},"role":2,"permissions":{},"password":"menomanor","color":"#2836cc","hotbar":{}}
+{"_id":"EgOksTPxRdP9M30v","name":"Alaina","flags":{},"role":2,"permissions":{},"password":"menomanor","avatar":"icons/svg/mystery-man.svg","character":"","color":"#cc2851","hotbar":{}}
+{"_id":"O8mnkNckK86EVAcz","name":"Kate","flags":{},"role":2,"permissions":{},"password":"menomanor","color":"#43cc28","hotbar":{}}
+{"_id":"PglDtF7cBy19gpOi","name":"Gamemaster","flags":{"token-attacher":{"copyPrototypeMap":{"map":{"Token":{}},"grid":{"size":256,"w":256,"h":256}}}},"role":4,"permissions":{},"password":"menomanor","color":"#c9cc28","hotbar":{}}
+{"_id":"TbHVkQZy8AvptKH2","name":"Dylan","flags":{},"role":2,"permissions":{},"password":"menomanor","color":"#42cc28","hotbar":{}}
+{"_id":"TmmQaRl9Ky4CKaXt","name":"Rhett","flags":{},"role":2,"permissions":{},"password":"menomanor","color":"#94cc28","hotbar":{}}
+{"_id":"mMdMkI5ouSFafiCQ","name":"Guest X","flags":{},"role":1,"permissions":{},"password":"menomanor","color":"#a1cc28","hotbar":{}}
+{"_id":"yiVKyFDto9XtyGH7","name":"Jenn","flags":{},"role":2,"permissions":{},"password":"menomanor","color":"#cc2844","hotbar":{}}

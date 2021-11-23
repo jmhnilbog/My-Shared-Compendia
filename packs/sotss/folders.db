@@ -1,0 +1,24 @@
+{"name":"NPC Chatter","type":"RollTable","sort":300000,"flags":{},"parent":null,"sorting":"a","color":"#929292","_id":"AMq8N8RPx3n8fgl7"}
+{"name":"Party: Elfward","type":"JournalEntry","sort":400000,"flags":{},"parent":null,"sorting":"a","color":"#0096ff","_id":"GAku19mFyizRMBuc"}
+{"name":"0-level PCs","type":"Actor","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"J9NEzXAjxsQSRLoX"}
+{"_id":"KyJBgPcbv53isrAk","name":"Party: Troma","type":"Actor","sort":800000,"flags":{},"parent":null,"sorting":"a","color":"#3abb00"}
+{"_id":"LWTaxeBsdCd3Mimg","name":"My Scenes","type":"Scene","sort":100000,"flags":{},"parent":null,"sorting":"a"}
+{"_id":"MiwN53BBlMKkW03j","name":"SotSS: RollTables","type":"RollTable","sort":200000,"flags":{},"parent":null,"sorting":"a","color":"#941100"}
+{"_id":"OnSDrl0jtlgm0XME","name":"SotSS: Creatures","type":"Actor","sort":200000,"flags":{},"parent":null,"sorting":"a","color":"#941100"}
+{"name":"SotSS: Scenes","type":"Scene","sort":200000,"flags":{},"parent":null,"sorting":"a","color":"#941100","_id":"PE7JtXeDFFvkMnR5"}
+{"name":"Utility","type":"Actor","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"VN3h3SiLIZxVnIGb"}
+{"name":"SotSS: Items and Attacks","type":"Item","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"#941100","_id":"WGcNkMV9VpmtWaCY"}
+{"name":"SotSS: Creatures","type":"JournalEntry","sort":null,"flags":{},"parent":null,"sorting":"a","color":"#941100","_id":"WxsFsNSRlesjmNkj"}
+{"name":"SotSS: Unique Actors","type":"Actor","sort":300000,"flags":{},"parent":null,"sorting":"a","color":"#941100","_id":"XDtoV9SWj4Iq8lo9"}
+{"name":"Unique-Creatures","type":"Actor","sort":null,"flags":{},"parent":null,"sorting":"a","_id":"bB2175e3s7h0mun6"}
+{"name":"Temporary Combatants","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"firUtokq6r6BG8Im"}
+{"name":"WtWTA: Unique Actors","type":"Actor","sort":600000,"flags":{},"parent":null,"sorting":"a","color":"#929292","_id":"j6KrwH594ejBaKPI"}
+{"_id":"k90v3nYx2zTpbNfz","name":"SotSS: The Ziggurat","type":"JournalEntry","sort":100000,"flags":{},"parent":"pBmZ1vGGqgc5hjLq","sorting":"a","color":"#941100"}
+{"name":"WtWTA: Creatures","type":"Actor","sort":700000,"flags":{},"parent":null,"sorting":"a","color":"#919191","_id":"l4dZDguRoulUESSz"}
+{"name":"WtWTA: Prefabs","type":"Actor","sort":500000,"flags":{},"parent":null,"sorting":"a","color":"#929292","_id":"ln83t5DymhtSM7nw"}
+{"name":"SotSS: Locations","type":"JournalEntry","sort":300000,"flags":{},"parent":null,"sorting":"a","color":"#941100","_id":"pBmZ1vGGqgc5hjLq"}
+{"_id":"pshy87rZ4uZ8dsYv","name":"WtWTA: Scenes","type":"Scene","sort":300000,"flags":{},"parent":null,"sorting":"a","color":"#919191"}
+{"name":"Party: Elfward","type":"Actor","sort":400000,"flags":{},"parent":null,"sorting":"a","color":"#0096ff","_id":"qskXXFKztBRHBeJg"}
+{"name":"Equipment","type":"Item","sort":null,"flags":{},"parent":null,"sorting":"a","color":"","_id":"tB8hpLwodl5ieIu9"}
+{"_id":"tR7TXBV8ydWL7BRU","name":"SotSS: The Ruined Keep","type":"JournalEntry","sort":200000,"flags":{},"parent":"pBmZ1vGGqgc5hjLq","sorting":"m","color":"#941100"}
+{"name":"SotSS: Items","type":"JournalEntry","sort":100000,"flags":{},"parent":null,"sorting":"a","color":"#941100","_id":"vLwbGMjnP7ZZ0G4e"}

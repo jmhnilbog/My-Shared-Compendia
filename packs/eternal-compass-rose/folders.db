@@ -1,0 +1,11 @@
+{"name":"Landing Pages","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"#75d5ff","flags":{},"_id":"vR8ugAs8QW0m7TIk"}
+{"name":"HUMAN[+-_LOW]","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#ff9300","flags":{},"_id":"QzzyDAYxKi2gv2zd"}
+{"name":"LORE","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#0432ff","flags":{},"_id":"pvIPC1GVvVMuReRQ"}
+{"_id":"QzzyDAYxKi2gv2zd","name":"HUMAN[+-_LOW]","type":"JournalEntry","parent":"pvIPC1GVvVMuReRQ","sorting":"a","sort":100000,"color":"#ff9300","flags":{}}
+{"name":"RACES","type":"JournalEntry","parent":"pvIPC1GVvVMuReRQ","sorting":"a","sort":0,"color":"#4e8f00","flags":{},"_id":"OTTxMqdqh1XDgJ25"}
+{"_id":"QzzyDAYxKi2gv2zd","name":"HUMAN[+-_LOW]","type":"JournalEntry","parent":"pvIPC1GVvVMuReRQ","sorting":"a","sort":-100000,"color":"#ff9300","flags":{}}
+{"_id":"QzzyDAYxKi2gv2zd","name":"HUMAN[+-_LOW]","type":"JournalEntry","parent":"OTTxMqdqh1XDgJ25","sorting":"a","sort":100000,"color":"#ff9300","flags":{}}
+{"name":"MODULES","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"ff4LwMIi7T5LcOaW"}
+{"name":"HUMAN[+-MED]","type":"JournalEntry","parent":"OTTxMqdqh1XDgJ25","sorting":"a","sort":0,"color":null,"flags":{},"_id":"E2wmSVkwTYhJU9IJ"}
+{"name":"HUMAN[+-_HIGH]","type":"JournalEntry","parent":"OTTxMqdqh1XDgJ25","sorting":"a","sort":0,"color":null,"flags":{},"_id":"ogC1x3aLhmK9GzN8"}
+{"_id":"E2wmSVkwTYhJU9IJ","name":"HUMAN[+-_MED]","type":"JournalEntry","parent":"OTTxMqdqh1XDgJ25","sorting":"a","sort":0,"color":"","flags":{}}
