@@ -1,0 +1,17 @@
+<svg height="6000" width="6000" xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <defs>
+        <pattern id="diagonal-stripe-1" patternUnits="userSpaceOnUse" width="10" height="10">
+            <rect x="0" y="0" height="10" width="10" fill="#c7c7c7" opacity="1" />
+            <rect x="5" y="5" height="10" width="10" stroke="#ffffff" fill="rgba(255,255,255,0.473)" opacity="1" />
+            <line x1="-5" y1="-5" x2="15" y2="15" stroke="#dfdfdf" stroke-width="1" stroke-linecap="round"
+                stroke-opacity=".5" />
+
+
+
+
+
+        </pattern>
+    </defs>
+
+    <rect style="fill: url(#diagonal-stripe-1) #fff;" x="0" y="0" height="6000" width="6000"></rect>
+</svg>

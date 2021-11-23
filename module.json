@@ -1,0 +1,194 @@
+{
+  "name": "My-Shared-Compendia",
+  "title": "My Shared Compendia",
+  "description": "Sharing data across worlds via Compendia as explained by u/solfolango on r/FoundryVTT",
+  "author": "sts",
+  "version": "2.0.0",
+  "minimumCoreVersion": "0.5.0",
+  "compatibleCoreVersion": "3.2.1",
+  "packs": [
+    {
+      "name": "parties",
+      "label": "Party Members",
+      "path": "packs/parties/parties.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Actor"
+    },
+    {
+      "name": "puts-creatures",
+      "label": "Portal Under the Stars: Creatures",
+      "path": "packs/portal-under-the-stars/creatures.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Actor"
+    },
+    {
+      "name": "puts-items",
+      "label": "Portal Under the Stars: Items",
+      "path": "packs/portal-under-the-stars/items.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "puts-journals",
+      "label": "Portal Under the Stars: Journal Entries",
+      "path": "packs/portal-under-the-stars/journals.db",
+      "module": "My-Shared-Compendia",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "puts-rolltables",
+      "label": "Portal Under the Stars: RollTables",
+      "path": "packs/portal-under-the-stars/rolltables.db",
+      "module": "My-Shared-Compendia",
+      "entity": "RollTable"
+    },
+    {
+      "name": "puts-scenes",
+      "label": "Portal Under the Stars: Scenes",
+      "path": "packs/portal-under-the-stars/scenes.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Scene"
+    },
+    {
+      "name": "sotss-creatures",
+      "label": "Sailors on the Starless Sea: Creatures",
+      "path": "packs/sailors-on-the-starless-sea/creatures.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Actor"
+    },
+    {
+      "name": "sotss-items",
+      "label": "Sailors on the Starless Sea: Items",
+      "path": "packs/sailors-on-the-starless-sea/items.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "sotss-journals",
+      "label": "Sailors on the Starless Sea: Journal Entries",
+      "path": "packs/sailors-on-the-starless-sea/journals.db",
+      "module": "My-Shared-Compendia",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "sotss-rolltables",
+      "label": "Sailors on the Starless Sea: RollTables",
+      "path": "packs/sailors-on-the-starless-sea/rolltables.db",
+      "module": "My-Shared-Compendia",
+      "entity": "RollTable"
+    },
+    {
+      "name": "sotss-scenes",
+      "label": "Sailors on the Starless Sea: Scenes",
+      "path": "packs/sailors-on-the-starless-sea/scenes.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Scene"
+    },
+    {
+      "name": "utilities-actors",
+      "label": "Utilities: Actors",
+      "path": "packs/utilities/actors.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Actor"
+    },
+    {
+      "name": "utilities-rolltables",
+      "label": "Utilities: RollTables",
+      "path": "packs/utilities/rolltables.db",
+      "module": "My-Shared-Compendia",
+      "entity": "RollTable"
+    },
+    {
+      "name": "wtwta-creatures",
+      "label": "Where the White Things Are: Creatures",
+      "path": "packs/where-the-white-things-are/creatures.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Actor"
+    },
+    {
+      "name": "wtwta-items",
+      "label": "Where the White Things Are: Items",
+      "path": "packs/where-the-white-things-are/items.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "wtwta-journals",
+      "label": "Where the White Things Are: Journal Entries",
+      "path": "packs/where-the-white-things-are/journals.db",
+      "module": "My-Shared-Compendia",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "wtwta-rolltables",
+      "label": "Where the White Things Are: Rolltables",
+      "path": "packs/where-the-white-things-are/rolltables.db",
+      "module": "My-Shared-Compendia",
+      "entity": "RollTable"
+    },
+    {
+      "name": "wtwta-scenes",
+      "label": "Where the White Things Are: Scenes",
+      "path": "packs/where-the-white-things-are/scenes.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Scene"
+    },
+    {
+      "name": "elfward-barony-creatures",
+      "label": "Elfward Barony: Creatures",
+      "path": "packs/elfward-barony/creatures.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Actor"
+    },
+    {
+      "name": "elfward-barony-items",
+      "label": "Elfward Barony: Items",
+      "path": "packs/elfward-barony/items.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "elfward-barony-journals",
+      "label": "Elfward Barony: Journal Entries",
+      "path": "packs/elfward-barony/journals.db",
+      "module": "My-Shared-Compendia",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "elfward-barony-rolltables",
+      "label": "Elfward Barony: RollTables",
+      "path": "packs/elfward-barony/rolltables.db",
+      "module": "My-Shared-Compendia",
+      "entity": "RollTable"
+    },
+    {
+      "name": "elfward-barony-scenes",
+      "label": "Elfward Barony: Scenes",
+      "path": "packs/elfward-barony/scenes.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Scene"
+    },
+    {
+      "name": "ecr-items",
+      "label": "Eternal Compass Rose: Items",
+      "path": "packs/items.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "ecr-playlists",
+      "label": "Eternal Compass Rose: Playlists",
+      "path": "packs/playlist.db",
+      "module": "My-Shared-Compendia",
+      "entity": "Playlist"
+    },
+    {
+      "name": "ecr-rolltables",
+      "label": "Eternal Compass Rose: Rolltables",
+      "path": "packs/rolltables.db",
+      "module": "My-Shared-Compendia",
+      "entity": "RollTable"
+    }
+  ],
+  "url": "https://github.com/stschoelzel/My-Shared-Compendia"
+}
