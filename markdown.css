@@ -1,0 +1,50 @@
+.creature {
+    padding: .5em;
+    margin: .5em;
+    background-color: #cccccc33;
+}
+
+.inset {
+    width: 50%;
+    padding: 2.5%;
+    float: right;
+}
+
+.statblock {
+    border: .5em solid #cccccc33;
+    background-color: #cccccc33;
+    padding: .5em;
+    clear: both;
+    padding-bottom: -1em;
+}
+
+.statblock > p:last-child {
+    margin-bottom: .25em;
+}
+
+.statblock dl {
+    padding: .5em;
+    background-color: #cccccc33;
+    margin: 0;
+}
+
+.statblock dt {
+    font-weight: bold;
+    background-color: #cccccccc;
+
+}
+
+.statblock dt::after {
+    content: ":";
+
+}
+
+.statblock dd {
+    margin-left: .5em;
+}
+
+.creature::after {
+  content: "";
+  display: table;
+  clear: both;
+}

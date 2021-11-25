@@ -1,3 +1,8 @@
+SOTSS world has the latest elfward game
+
+::: CONTAINER
+:::
+
 ![GitHub All Releases](https://img.shields.io/github/downloads/stschoelzel/My-Shared-Compendia/total) 
 
 # My Shared Compendia
@@ -75,3 +80,23 @@ But, [Compendium Folders](https://github.com/earlSt1/vtt-compendium-folders "Com
 ✨
 
 **I only intent to update this if it breaks. Anyway, delete line 67 to 70 in the module.json**
+
+
+Hooks.on("createToken", (TDoc, t1, t2) => {
+	console.log("Created", TDoc.actor);
+        // Checks if its a NPC type of actor
+	if (TDoc.actor.type === "NPC") {
+		// getting the NPC Hit Dice
+		let HD = TDoc.actor.data.data.attributes.hitDice.value;
+		// rolling the NPC's hit points
+		let HP = new Roll(HD, data = {}, options = {});
+		HP.evaluate();
+		// doing a little error checking to prevent any 0 HP mobs from spawning
+		let tHP = HP.total;
+		if (tHP < 1) {tHP = 1;}
+		// assigning the random HP amount to the proper fields
+		TDoc.actor.data.data.attributes.hp.value = tHP;
+		TDoc.actor.data.data.attributes.hp.max = tHP;
+		TDoc.update();
+	}
+});
