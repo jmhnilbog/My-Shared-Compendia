@@ -1,13 +1,5 @@
 .creature {
-    padding: .5em;
-    margin: .5em;
     background-color: #cccccc33;
-}
-
-.inset {
-    width: 50%;
-    padding: 2.5%;
-    float: right;
 }
 
 .statblock {
@@ -18,12 +10,18 @@
     padding-bottom: -1em;
 }
 
+.statblock > ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
 .statblock > p:last-child {
     margin-bottom: .25em;
 }
 
 .statblock dl {
-    padding: .5em;
+    padding: 0;
     background-color: #cccccc33;
     margin: 0;
 }
@@ -41,10 +39,79 @@
 
 .statblock dd {
     margin-left: .5em;
+    margin-bottom: 1em;
 }
 
 .creature::after {
   content: "";
   display: table;
   clear: both;
+}
+
+
+
+.readaloud, .dm-only, .aside {
+    padding: 1em;
+    margin: 1em;
+    background-color: #cccccc33;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.3em;
+}
+
+.readaloud, .dm-only {
+    border: .5em solid #ffffff99;
+}
+
+.dm-only {
+    border-color: #CC000099;
+}
+
+.aside {
+    width: 50%;
+    margin: 1em;
+    margin: 0 0 0 1em;
+    padding: 1em;
+}
+
+.aside, .inset {
+    float: right;
+}
+
+.aside::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+hr {
+    clear: both;
+}
+
+
+div:has(.inset)::after, div:has(.aside)::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.inset {
+    width: 50%;
+    margin-bottom: -1em;
+    padding-bottom: 0;
+}
+
+.area.summary {
+    float: right;
+    width: 25%;
+    font-size: .6em;
+    border: .5em solid #ffffff99;
+    background-color: #cccccc33;
+}
+
+.area.summary > dl dt {
+    font-weight: bold;
+}
+
+.area.summary > dl dd {
+    margin: 0 0 0 .5em;
 }
